@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Em Suma](https://emsuma.com.br)
 
-- 👨‍💻 All of my projects are available at [https://cabraljv.github.io](https://cabraljv.github.io)
+- 👨‍💻 All of my projects are available at [https://cabraljv.github.io](https://cabraljv.dev)
 
 - 💬 Ask me about **React, VueJS, NodeJS**
 
